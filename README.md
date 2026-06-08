@@ -11,14 +11,19 @@
 
 ## 📖 目录
 
-- [Auto Research（端到端自动科研）](#-auto-research端到端自动科研)
-- [Idea Generation（科研选题与idea生成）](#-idea-generation科研选题与idea生成)
-- [Experiment（实验设计与执行）](#-experiment实验设计与执行)
-- [Writing（论文写作与润色）](#-writing论文写作与润色)
-- [Scientific Visualization（科学画图与可视化）](#-scientific-visualization科学画图与可视化)
-- [Impact Analysis（论文影响力分析）](#-impact-analysis论文影响力分析)
-- [如何贡献](#-如何贡献)
-- [许可证](#-许可证)
+- [Awesome Research Agents](#awesome-research-agents)
+  - [📖 目录](#-目录)
+  - [🤖 Auto Research（端到端自动科研）](#-auto-research端到端自动科研)
+  - [💡 Idea Generation（科研选题与idea生成）](#-idea-generation科研选题与idea生成)
+  - [🧪 Experiment（实验设计与执行）](#-experiment实验设计与执行)
+  - [✍️ Writing（论文写作与润色）](#️-writing论文写作与润色)
+  - [📊 Scientific Visualization（科学画图与可视化）](#-scientific-visualization科学画图与可视化)
+  - [📈 Impact Analysis（论文影响力分析）](#-impact-analysis论文影响力分析)
+  - [📚 相关资源](#-相关资源)
+    - [综合综述](#综合综述)
+    - [关键论文](#关键论文)
+  - [🤝 如何贡献](#-如何贡献)
+  - [📜 许可证](#-许可证)
 
 ---
 
@@ -148,8 +153,8 @@
 
 **商业/学术平台**（无GitHub仓库但有重要价值）：
 
-| 缩写 | 描述 | 类型 | Paper | 链接 |
-|------|------|------|-------|------|
+| 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
+|------|------|------|-------|----------|
 | Elicit | AI研究助手，自动化文献综述和数据提取，覆盖1.38亿+论文 | agent | [Blog](https://elicit.org/blog) | [Website](https://elicit.org) |
 | RR | "学术界的Spotify"，基于引文的文献映射和可视化工具 | agent | [Docs](https://researchrabbit.notion.site/) | [Website](https://researchrabbitapp.com) |
 | CP | 可视化论文关系图谱，基于引用相似性发现相关研究 | tool | [About](https://www.connectedpapers.com/about) | [Website](https://www.connectedpapers.com) |
@@ -199,10 +204,6 @@
 - Star数量不是硬性要求，但会影响排序
 
 ---
-
-## 📜 许可证
-
-本项目采用 [MIT](LICENSE) 许可证。
 
 > 免责声明：本仓库中的信息仅供学术研究参考。部分AI工具生成的内容可能需要人工审核，请遵守相关学术伦理规范。
 
