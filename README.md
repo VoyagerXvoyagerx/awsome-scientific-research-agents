@@ -1,17 +1,13 @@
-# Awesome Research Agents
+# Awesome Scientific Research Agents
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-> 精心整理的科研AI智能体与技能集合，覆盖从灵感产生到影响力分析的全研究生命周期。
-> 
-> **精选项目数量**：80+ | **分类**：6大方向 | **最后更新**：2026年6月
 
 ---
 
 ## 📖 目录
 
-- [Awesome Research Agents](#awesome-research-agents)
+- [Awesome Scientific Research Agents](#awesome-scientific-research-agents)
   - [📖 目录](#-目录)
   - [🤖 Auto Research（端到端自动科研）](#-auto-research端到端自动科研)
   - [💡 Idea Generation（科研选题与idea生成）](#-idea-generation科研选题与idea生成)
@@ -23,7 +19,6 @@
     - [综合综述](#综合综述)
     - [关键论文](#关键论文)
   - [🤝 如何贡献](#-如何贡献)
-  - [📜 许可证](#-许可证)
 
 ---
 
@@ -47,10 +42,7 @@
 | VirSci | 基于真实科学数据的多Agent科学协作系统，模拟真实科研团队的协作过程 | agent | ![GitHub stars](https://img.shields.io/github/stars/InternScience/Virtual-Scientists?style=flat-square&logo=github) | [ACL 2025](https://modelscope.cn/papers/2410.09403/) | [GitHub](https://github.com/InternScience/Virtual-Scientists) / [Demo](https://open-sciencelab.github.io/Virtual-Scientists) |
 | MLR-Copilot | 基于LLM代理的自主机器学习研究框架，自动生成并实现研究想法 | agent | ![GitHub stars](https://img.shields.io/github/stars/du-nlp-lab/MLR-Copilot?style=flat-square&logo=github) | [arXiv 2024](https://modelscope.cn/papers/2408.14033/) | [GitHub](https://github.com/du-nlp-lab/MLR-Copilot) / [HF Space](https://huggingface.co/spaces/du-lab/MLR-Copilot) |
 
-**补充项目**（无GitHub仓库但有重要学术价值）：
-- **Baby-AIGS** (AIGS): 多Agent全流程AI生成科学系统，通过显式证伪机制实现科学发现 — [Paper](https://modelscope.cn/papers/2411.11910/) / [Demo](https://agent-force.github.io/AIGS/)
-- **AI Co-Scientist** (Google): 基于Gemini 2.0的多Agent科学协作者 — [Paper](https://modelscope.cn/papers/2502.18864/)
-- **ResearchTown**: 人类研究社区的模拟器 — [ICML 2025](https://modelscope.cn/papers/2412.17767/)
+
 
 ---
 
@@ -94,9 +86,6 @@
 | DS-Agent | 基于案例推理(CBR)的自动化数据科学Agent，开发阶段100%成功率 | agent | ![GitHub stars](https://img.shields.io/github/stars/guosyjlu/DS-Agent?style=flat-square&logo=github) | [ICML 2024](https://modelscope.cn/papers/2402.17453/) | [GitHub](https://github.com/guosyjlu/DS-Agent) |
 | AutoReproduce | 多Agent框架，通过Paper Lineage算法自动复现论文实验 | agent | ![GitHub stars](https://img.shields.io/github/stars/AI9Stars/AutoReproduce?style=flat-square&logo=github) | [ACL 2026](https://modelscope.cn/papers/2505.20662/) | [GitHub](https://github.com/AI9Stars/AutoReproduce) |
 
-**补充项目**（无GitHub仓库）：
-- **AlphaEvolve** (Google DeepMind): 进化式编码Agent，使用Gemini模型自动发现和优化算法，突破4×4矩阵乘法56年纪录 — [arXiv 2025](https://modelscope.cn/papers/2505.04507/) / [Blog](https://deepmind.google/blog/alphaevolve-impact/)
-
 ---
 
 ## ✍️ Writing（论文写作与润色）
@@ -134,10 +123,6 @@
 | VIS-Shepherd | 基于MLLM的可视化评价与反馈模型，为LLM生成的可视化提供自动评估 | agent | ![GitHub stars](https://img.shields.io/github/stars/bopan3/VIS-Shepherd?style=flat-square&logo=github) | [arXiv 2025](https://modelscope.cn/papers/2506.13326/) | [GitHub](https://github.com/bopan3/VIS-Shepherd) |
 | Plot-Skill | AI技能文件：生成出版级ggplot2/plotnine图表，矢量PDF输出 | skill | ![GitHub stars](https://img.shields.io/github/stars/dazhiyang/scientific-plotting-skill?style=flat-square&logo=github) | - | [GitHub](https://github.com/dazhiyang/scientific-plotting-skill) / [Skill](https://github.com/dazhiyang/scientific-plotting-skill/blob/main/SKILL.md) |
 | ChatVis | 科学可视化Agent和Benchmark，从自然语言生成ParaView可视化Python脚本 | agent | ![GitHub stars](https://img.shields.io/github/stars/tpeterka/ChatVis?style=flat-square&logo=github) | [arXiv 2024](https://modelscope.cn/papers/2410.11863/) | [GitHub](https://github.com/tpeterka/ChatVis) |
-
-**补充项目**（无GitHub仓库但有重要学术价值）：
-- **PlotGen**: 多Agent LLM科学数据可视化框架，通过多模态反馈迭代优化图表质量 — [WWW 2025](https://modelscope.cn/papers/2502.00988/)
-- **SASAV**: 首个完全自主且零提示的科学可视化Agent工作流 — [arXiv 2025](https://modelscope.cn/papers/2604.03406/) / [Demo](https://selfdirectedscivisagent.github.io)
 
 ---
 
