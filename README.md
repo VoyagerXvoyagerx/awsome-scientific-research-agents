@@ -7,13 +7,11 @@
 
 ## 📖 目录
 
-- [Awesome Scientific Research Agents](#awesome-scientific-research-agents)
-  - [📖 目录](#-目录)
-  - [🤖 Auto Research（端到端自动科研）](#-auto-research端到端自动科研)
-  - [✍️ Writing（论文写作与润色）](#️-writing论文写作与润色)
-  - [📊 Scientific Visualization（科学画图与可视化）](#-scientific-visualization科学画图与可视化)
-  - [📈 Impact Analysis（论文影响力分析）](#-impact-analysis论文影响力分析)
-  - [🤝 如何贡献](#-如何贡献)
+- [🤖 Auto Research（端到端自动科研）](#-auto-research端到端自动科研)
+- [✍️ Writing（论文写作与润色）](#️-writing论文写作与润色)
+- [📊 Scientific Visualization（科学画图与可视化）](#-scientific-visualization科学画图与可视化)
+- [📈 Impact Analysis（论文影响力分析）](#-impact-analysis论文影响力分析)
+- [🤝 如何贡献](#-如何贡献)
 
 ---
 
@@ -27,11 +25,10 @@
 | AI-Scientist | 首个端到端自动化科学发现系统，自动生成研究想法、实验、论文和同行评审 | agent | ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=flat-square&logo=github) | [Nature 2024](https://modelscope.cn/papers/2408.06292/) | [GitHub](https://github.com/SakanaAI/AI-Scientist) |
 | AutoResearchClaw | 全自主、自进化的23阶段研究流水线，从想法到论文一键生成 | agent | ![GitHub stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=flat-square&logo=github) | [arXiv 2025](https://modelscope.cn/papers/2605.22662/) | [GitHub](https://github.com/aiming-lab/AutoResearchClaw) / [Demo](https://openclaw.ai) |
 | AgentLab | 端到端自主研究工作流，多Agent协作（PhD/Postdoc/ML Engineer/Professor）协助人类研究者 | agent | ![GitHub stars](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory?style=flat-square&logo=github) | [arXiv 2025](https://modelscope.cn/papers/2501.04227/) | [GitHub](https://github.com/SamuelSchmidgall/AgentLaboratory) / [Demo](https://agentlaboratory.github.io) |
+| AI-Scientist-v2 | 基于Agentic Tree Search的升级版，不依赖人类模板，可跨ML领域通用化探索 | agent | ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=flat-square&logo=github) | [arXiv 2025](https://modelscope.cn/papers/2504.08066/) | [GitHub](https://github.com/SakanaAI/AI-Scientist-v2) |
 | AI-Researcher | 完全自主的科学创新系统，覆盖文献综述到论文撰写的完整研究管线 | agent | ![GitHub stars](https://img.shields.io/github/stars/hkuds/ai-researcher?style=flat-square&logo=github) | [NeurIPS 2025](https://modelscope.cn/papers/2505.18705/) | [GitHub](https://github.com/hkuds/ai-researcher) / [Demo](https://novix.science/chat) |
 | EvoScientist | 自进化多Agent AI科学家系统，6个子Agent协作并通过持久记忆和技能进化实现端到端科研 | agent | ![GitHub stars](https://img.shields.io/github/stars/EvoScientist/EvoScientist?style=flat-square&logo=github) | [arXiv 2025](https://modelscope.cn/papers/2603.08127/) | [GitHub](https://github.com/EvoScientist/EvoScientist) / [Skill](https://skillsllm.com/skill/evoscientist) / [Demo](https://evoscientist.ai) |
 | DeepScientist | 本地优先的自主研究工作室，通过贝叶斯优化和研究发现记忆推进前沿科学 | agent | ![GitHub stars](https://img.shields.io/github/stars/ResearAI/DeepScientist?style=flat-square&logo=github) | [arXiv 2025](https://modelscope.cn/papers/2509.26603/) | [GitHub](https://github.com/ResearAI/DeepScientist) / [Demo](https://deepscientist.cc) |
-| AutoSci | Wiki-centric全生命周期AI研究平台，包含/ideate、/novelty、/review等完整skill集合 | agent/skill | ![GitHub stars](https://img.shields.io/github/stars/skyllwt/AutoSci?style=flat-square&logo=github) | - | [GitHub](https://github.com/skyllwt/AutoSci) / 内置skills |
-| AI-Scientist-v2 | 基于Agentic Tree Search的升级版，不依赖人类模板，可跨ML领域通用化探索 | agent | ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=flat-square&logo=github) | [arXiv 2025](https://modelscope.cn/papers/2504.08066/) | [GitHub](https://github.com/SakanaAI/AI-Scientist-v2) |
 
 
 ---
@@ -44,12 +41,7 @@
 |------|------|------|:------------:|-------|------|
 | STORM | 斯坦福开源的知识整理系统，通过多视角问题生成和检索研究生成带引用的完整报告 | agent | ![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=flat-square&logo=github) | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) | [GitHub](https://github.com/stanford-oval/storm) / [Demo](https://storm.genie.stanford.edu) |
 | ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | ![GitHub stars](https://img.shields.io/github/stars/Imbad0202/academic-research-skills?style=flat-square&logo=github) | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
-| GPT-R | 基于LLM的自主深度研究代理，支持网络和本地文档研究，生成带引用的详细报告 | agent | ![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=flat-square&logo=github) | - | [GitHub](https://github.com/assafelovic/gpt-researcher) / [Skill Install](https://github.com/assafelovic/gpt-researcher) / [Demo](https://gptr.dev) |
-| ODR | LangChain开源深度研究代理，支持多种模型提供商、搜索工具和MCP服务器 | agent | ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/open_deep_research?style=flat-square&logo=github) | - | [GitHub](https://github.com/langchain-ai/open_deep_research) |
-| PaperQA2 | 面向科学文献的高精度RAG系统，支持科学问答、摘要生成和矛盾检测 | agent | ![GitHub stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=flat-square&logo=github) | [arXiv 2024](https://modelscope.cn/papers/2409.13740/) | [GitHub](https://github.com/Future-House/paper-qa) / [Docs](https://futurehouse.gitbook.io/futurehouse-cookbook) |
-| CSW | 科学写作工具，结合深度研究与格式化输出，支持论文/报告/基金申请 | skill | ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-writer?style=flat-square&logo=github) | - | [GitHub](https://github.com/K-Dense-AI/claude-scientific-writer) / 内置Claude Code技能 / [Demo](https://k-dense.ai) |
-| OpenDraft | 开源AI论文草稿生成器，19个专业代理协作，支持验证引用并导出PDF/Word/LaTeX | agent | ![GitHub stars](https://img.shields.io/github/stars/federicodeponte/opendraft?style=flat-square&logo=github) | - | [GitHub](https://github.com/federicodeponte/opendraft) / [Demo](https://openpaper.dev) |
-| LatteReview | 低代码Python包，通过AI智能体自动化系统性文献综述流程 | agent | ![GitHub stars](https://img.shields.io/github/stars/PouriaRouzrokh/LatteReview?style=flat-square&logo=github) | [arXiv 2025](https://modelscope.cn/papers/2501.05468/) | [GitHub](https://github.com/PouriaRouzrokh/LatteReview) / [Docs](https://pouriarouzrokh.github.io/LatteReview) |
+
 
 ---
 
@@ -69,7 +61,7 @@
 
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
-| CitationClaw | 让每一次引用都成为可解释的影响力，输入论文标题或Google Scholar主页即可生成可分享的引用画像报告 | tool | ![GitHub stars](https://img.shields.io/github/stars/VisionXLab/CitationClaw?style=flat-square&logo=github) | - | [GitHub](https://github.com/VisionXLab/CitationClaw) / [Homepage](https://visionxlab.github.io/CitationClaw/) |
+| CitationClaw | 让每一次引用都成为可解释的影响力，输入论文标题或Google Scholar主页即可生成可分享的引用画像报告 | tool | ![GitHub stars](https://img.shields.io/github/stars/VisionXLab/CitationClaw?style=flat-square&logo=github) | - | [GitHub](https://github.com/VisionXLab/CitationClaw) / [魔搭创空间](https://modelscope.cn/studios/fork?target=VisionXLab/CitationClaw)|
 
 ---
 
