@@ -60,16 +60,6 @@
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
 | PaperBanana | 多Agent学术插图自动化生成框架，从文本描述生成出版级图表和统计图 | agent | ![GitHub stars](https://img.shields.io/github/stars/dwzhu-pku/PaperBanana?style=flat-square&logo=github) | [arXiv 2025](https://modelscope.cn/papers/2601.23265/) | [GitHub](https://github.com/dwzhu-pku/PaperBanana) / [Demo](https://dwzhu-pku.github.io/PaperBanana/) |
-| AIDS-Team | AI驱动的数据科学团队Agent库，包含数据可视化、清洗、建模等多个Agent | agent | ![GitHub stars](https://img.shields.io/github/stars/business-science/ai-data-science-team?style=flat-square&logo=github) | - | [GitHub](https://github.com/business-science/ai-data-science-team) |
-| PlotSense | AI驱动的数据可视化助手，提供智能图表推荐和自然语言解释 | agent | ![GitHub stars](https://img.shields.io/github/stars/PlotSenseAI/PlotSense?style=flat-square&logo=github) | - | [GitHub](https://github.com/PlotSenseAI/PlotSense) |
-| MatPlotAgent | 清华NLP提出的模型无关LLM Agent框架，自动化科学数据可视化 | agent | ![GitHub stars](https://img.shields.io/github/stars/thunlp/MatPlotAgent?style=flat-square&logo=github) | [ACL 2024](https://modelscope.cn/papers/2402.11453/) | [GitHub](https://github.com/thunlp/MatPlotAgent) / [Skill](https://github.com/lingzhi227/agent-research-skills/tree/main/skills/figure-generation) |
-| ARS-Viz | 包含31个学术研究技能的Claude Code技能包，含科学图表生成skill | skill | ![GitHub stars](https://img.shields.io/github/stars/lingzhi227/agent-research-skills?style=flat-square&logo=github) | - | [GitHub](https://github.com/lingzhi227/agent-research-skills) / [Skill](https://github.com/lingzhi227/agent-research-skills/tree/main/skills/figure-generation) |
-| CoDA | Google Research多Agent协作数据可视化框架，将自然语言查询转为出版级图表 | agent | ![GitHub stars](https://img.shields.io/github/stars/google-research/agentic-visualization?style=flat-square&logo=github) | [ICLR 2026](https://modelscope.cn/papers/2510.03194/) | [GitHub](https://github.com/google-research/agentic-visualization) / [Demo](https://coda-agent.github.io/CoDA/) |
-| VisCoder | 针对Python可视化代码生成微调的开源大语言模型，支持自我纠错 | agent | ![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/VisCoder?style=flat-square&logo=github) | [EMNLP 2025](https://modelscope.cn/papers/2506.03930/) | [GitHub](https://github.com/TIGER-AI-Lab/VisCoder) / [Demo](https://tiger-ai-lab.github.io/VisCoder) |
-| DiagramAgent | CVPR 2025文本到图表生成与编辑框架，支持流程图、架构图等 | agent | ![GitHub stars](https://img.shields.io/github/stars/DiagramAgent/DiagramAgent_official?style=flat-square&logo=github) | [CVPR 2025](https://modelscope.cn/papers/2411.11916/) | [GitHub](https://github.com/DiagramAgent/DiagramAgent_official) / [Demo](https://diagramagent.github.io/) |
-| VIS-Shepherd | 基于MLLM的可视化评价与反馈模型，为LLM生成的可视化提供自动评估 | agent | ![GitHub stars](https://img.shields.io/github/stars/bopan3/VIS-Shepherd?style=flat-square&logo=github) | [arXiv 2025](https://modelscope.cn/papers/2506.13326/) | [GitHub](https://github.com/bopan3/VIS-Shepherd) |
-| Plot-Skill | AI技能文件：生成出版级ggplot2/plotnine图表，矢量PDF输出 | skill | ![GitHub stars](https://img.shields.io/github/stars/dazhiyang/scientific-plotting-skill?style=flat-square&logo=github) | - | [GitHub](https://github.com/dazhiyang/scientific-plotting-skill) / [Skill](https://github.com/dazhiyang/scientific-plotting-skill/blob/main/SKILL.md) |
-| ChatVis | 科学可视化Agent和Benchmark，从自然语言生成ParaView可视化Python脚本 | agent | ![GitHub stars](https://img.shields.io/github/stars/tpeterka/ChatVis?style=flat-square&logo=github) | [arXiv 2024](https://modelscope.cn/papers/2410.11863/) | [GitHub](https://github.com/tpeterka/ChatVis) |
 
 ---
 
@@ -79,7 +69,7 @@
 
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
-| S2-MCP | FastMCP服务器实现，提供对Semantic Scholar API的全面访问（16个工具） | skill | ![GitHub stars](https://img.shields.io/github/stars/zongmin-yu/semantic-scholar-fastmcp-mcp-server?style=flat-square&logo=github) | - | [GitHub](https://github.com/zongmin-yu/semantic-scholar-fastmcp-mcp-server) / [Tools](https://github.com/zongmin-yu/semantic-scholar-fastmcp-mcp-server/blob/main/TOOLS.md) |
+| CitationClaw | 让每一次引用都成为可解释的影响力，输入论文标题或Google Scholar主页即可生成可分享的引用画像报告 | tool | ![GitHub stars](https://img.shields.io/github/stars/VisionXLab/CitationClaw?style=flat-square&logo=github) | - | [GitHub](https://github.com/VisionXLab/CitationClaw) / [Homepage](https://visionxlab.github.io/CitationClaw/) |
 
 ---
 
