@@ -49,9 +49,11 @@ def fetch_stars(repo: str, token: str | None) -> int:
 
 
 def build_badge(repo: str, stars: str) -> str:
+    # shields.io badge format: encode literal '-' as '--'
+    safe_stars = stars.replace("-", "--")
     return (
         f"<!--stars:{repo}-->"
-        f"![GitHub stars](https://img.shields.io/badge/stars-{stars}-black?logo=github)"
+        f"![GitHub stars](https://img.shields.io/badge/stars-{safe_stars}-black?logo=github)"
         f"<!--/stars-->"
     )
 
