@@ -82,8 +82,15 @@
 - 项目应至少有一个可验证的发布版本或论文
 
 **关于 Stars 列**：
-- Stars 数量由 GitHub Action 自动维护，**无需手动填写**
-- 只需在 `Stars` 列保留 `<!--stars:owner/repo-->` 标记即可，脚本会自动填充当前 star 数
+- Stars 数量由 GitHub Action 自动维护，**首次提交时只需填写标记**，后续会自动更新
+- 首次添加项目时，在 `Stars` 列按以下格式填写：
+  ```markdown
+  <!--stars:owner/repo-->⭐ updating<!--/stars-->
+  ```
+  例如：
+  ```markdown
+  | DeepScientist | 本地优先的自主研究工作室... | agent | <!--stars:ResearAI/DeepScientist-->⭐ updating<!--/stars--> | [arXiv 2025](...) | [GitHub](...) |
+  ```
 - 更新频率：
   - **定时更新**：每天凌晨 2:00 (UTC) 自动运行
   - **即时更新**：PR 合并到 `main` 分支后，如果 `README.md` 有变更，会立即触发更新
