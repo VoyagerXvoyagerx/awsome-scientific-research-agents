@@ -51,7 +51,7 @@ def fetch_stars(repo: str, token: str | None) -> int:
 def build_badge(repo: str, stars: str) -> str:
     return (
         f"<!--stars:{repo}-->"
-        f"![GitHub stars](https://img.shields.io/github/stars/{repo}?style=social)"
+        f"⭐ {stars}"
         f"<!--/stars-->"
     )
 
