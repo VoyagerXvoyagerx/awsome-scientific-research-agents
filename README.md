@@ -89,7 +89,7 @@
   ```
   例如：
   ```markdown
-  | DeepScientist | 本地优先的自主研究工作室... | agent | <!--stars:ResearAI/DeepScientist-->⭐ updating<!--/stars--> | [arXiv 2025](...) | [GitHub](...) |
+  | DeepScientist | 本地优先的自主研究工作室... | agent | <!--stars:ResearAI/DeepScientist-->⭐ 3.1k<!--/stars--> | [arXiv 2025](...) | [GitHub](...) |
   ```
 - 更新频率：
   - **定时更新**：每天凌晨 2:00 (UTC) 自动运行
