@@ -21,7 +21,7 @@
 
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
-| autoresearch | Andrej Karpathy的自主ML研究代理，让AI在单GPU上自动运行实验并改进模型 | agent | <!--stars:karpathy/autoresearch-->⭐ 92.2k<!--/stars--> | - | [GitHub](https://github.com/karpathy/autoresearch) |
+| autoresearch | Andrej Karpathy的自主ML研究代理，让AI在单GPU上自动运行实验并改进模型 | agent | <!--stars:karpathy/autoresearch-->⭐ 92.3k<!--/stars--> | - | [GitHub](https://github.com/karpathy/autoresearch) |
 | AI-Scientist | 首个端到端自动化科学发现系统，自动生成研究想法、实验、论文和同行评审 | agent | <!--stars:SakanaAI/AI-Scientist-->⭐ 14.3k<!--/stars--> | [Nature 2024](https://modelscope.cn/papers/2408.06292/) | [GitHub](https://github.com/SakanaAI/AI-Scientist) |
 | AutoResearchClaw | 全自主、自进化的23阶段研究流水线，从想法到论文一键生成 | agent | <!--stars:aiming-lab/AutoResearchClaw-->⭐ 13.9k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2605.22662/) | [GitHub](https://github.com/aiming-lab/AutoResearchClaw) / [Demo](https://openclaw.ai) |
 | AgentLab | 端到端自主研究工作流，多Agent协作（PhD/Postdoc/ML Engineer/Professor）协助人类研究者 | agent | <!--stars:SamuelSchmidgall/AgentLaboratory-->⭐ 5.8k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2501.04227/) | [GitHub](https://github.com/SamuelSchmidgall/AgentLaboratory) / [Demo](https://agentlaboratory.github.io) |
@@ -40,7 +40,7 @@
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
 | STORM | 斯坦福开源的知识整理系统，通过多视角问题生成和检索研究生成带引用的完整报告 | agent | <!--stars:stanford-oval/storm-->⭐ 30.4k<!--/stars--> | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) | [GitHub](https://github.com/stanford-oval/storm) / [Demo](https://storm.genie.stanford.edu) |
-| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 39.8k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
+| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 40k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
 
 
 ---
