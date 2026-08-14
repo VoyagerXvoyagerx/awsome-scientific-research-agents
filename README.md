@@ -27,7 +27,7 @@
 | AgentLab | 端到端自主研究工作流，多Agent协作（PhD/Postdoc/ML Engineer/Professor）协助人类研究者 | agent | <!--stars:SamuelSchmidgall/AgentLaboratory-->⭐ 5.8k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2501.04227/) | [GitHub](https://github.com/SamuelSchmidgall/AgentLaboratory) / [Demo](https://agentlaboratory.github.io) |
 | AI-Scientist-v2 | 基于Agentic Tree Search的升级版，不依赖人类模板，可跨ML领域通用化探索 | agent | <!--stars:SakanaAI/AI-Scientist-v2-->⭐ 7k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2504.08066/) | [GitHub](https://github.com/SakanaAI/AI-Scientist-v2) |
 | AI-Researcher | 完全自主的科学创新系统，覆盖文献综述到论文撰写的完整研究管线 | agent | <!--stars:hkuds/ai-researcher-->⭐ 5.7k<!--/stars--> | [NeurIPS 2025](https://modelscope.cn/papers/2505.18705/) | [GitHub](https://github.com/hkuds/ai-researcher) / [Demo](https://novix.science/chat) |
-| EvoScientist | 自进化多Agent AI科学家系统，6个子Agent协作并通过持久记忆和技能进化实现端到端科研 | agent | <!--stars:EvoScientist/EvoScientist-->⭐ 4.5k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2603.08127/) | [GitHub](https://github.com/EvoScientist/EvoScientist) / [Skill](https://skillsllm.com/skill/evoscientist) / [Demo](https://evoscientist.ai) |
+| EvoScientist | 自进化多Agent AI科学家系统，6个子Agent协作并通过持久记忆和技能进化实现端到端科研 | agent | <!--stars:EvoScientist/EvoScientist-->⭐ 4.6k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2603.08127/) | [GitHub](https://github.com/EvoScientist/EvoScientist) / [Skill](https://skillsllm.com/skill/evoscientist) / [Demo](https://evoscientist.ai) |
 | DeepScientist | 本地优先的自主研究工作室，通过贝叶斯优化和研究发现记忆推进前沿科学 | agent | <!--stars:ResearAI/DeepScientist-->⭐ 3.3k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2509.26603/) | [GitHub](https://github.com/ResearAI/DeepScientist) / [Demo](https://deepscientist.cc) |
 
 
@@ -39,8 +39,8 @@
 
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
-| STORM | 斯坦福开源的知识整理系统，通过多视角问题生成和检索研究生成带引用的完整报告 | agent | <!--stars:stanford-oval/storm-->⭐ 30.9k<!--/stars--> | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) | [GitHub](https://github.com/stanford-oval/storm) / [Demo](https://storm.genie.stanford.edu) |
-| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 42.2k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
+| STORM | 斯坦福开源的知识整理系统，通过多视角问题生成和检索研究生成带引用的完整报告 | agent | <!--stars:stanford-oval/storm-->⭐ 31k<!--/stars--> | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) | [GitHub](https://github.com/stanford-oval/storm) / [Demo](https://storm.genie.stanford.edu) |
+| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 42.4k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
 
 
 ---
