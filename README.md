@@ -40,7 +40,7 @@
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
 | STORM | 斯坦福开源的知识整理系统，通过多视角问题生成和检索研究生成带引用的完整报告 | agent | <!--stars:stanford-oval/storm-->⭐ 31k<!--/stars--> | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) | [GitHub](https://github.com/stanford-oval/storm) / [Demo](https://storm.genie.stanford.edu) |
-| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 42.7k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
+| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 42.8k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
 
 
 ---
