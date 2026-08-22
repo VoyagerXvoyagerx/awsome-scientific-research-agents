@@ -21,9 +21,9 @@
 
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
-| autoresearch | Andrej Karpathy的自主ML研究代理，让AI在单GPU上自动运行实验并改进模型 | agent | <!--stars:karpathy/autoresearch-->⭐ 94.3k<!--/stars--> | - | [GitHub](https://github.com/karpathy/autoresearch) |
+| autoresearch | Andrej Karpathy的自主ML研究代理，让AI在单GPU上自动运行实验并改进模型 | agent | <!--stars:karpathy/autoresearch-->⭐ 94.4k<!--/stars--> | - | [GitHub](https://github.com/karpathy/autoresearch) |
 | AI-Scientist | 首个端到端自动化科学发现系统，自动生成研究想法、实验、论文和同行评审 | agent | <!--stars:SakanaAI/AI-Scientist-->⭐ 14.4k<!--/stars--> | [Nature 2024](https://modelscope.cn/papers/2408.06292/) | [GitHub](https://github.com/SakanaAI/AI-Scientist) |
-| AutoResearchClaw | 全自主、自进化的23阶段研究流水线，从想法到论文一键生成 | agent | <!--stars:aiming-lab/AutoResearchClaw-->⭐ 14k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2605.22662/) | [GitHub](https://github.com/aiming-lab/AutoResearchClaw) / [Demo](https://openclaw.ai) |
+| AutoResearchClaw | 全自主、自进化的23阶段研究流水线，从想法到论文一键生成 | agent | <!--stars:aiming-lab/AutoResearchClaw-->⭐ 14.1k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2605.22662/) | [GitHub](https://github.com/aiming-lab/AutoResearchClaw) / [Demo](https://openclaw.ai) |
 | AgentLab | 端到端自主研究工作流，多Agent协作（PhD/Postdoc/ML Engineer/Professor）协助人类研究者 | agent | <!--stars:SamuelSchmidgall/AgentLaboratory-->⭐ 5.8k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2501.04227/) | [GitHub](https://github.com/SamuelSchmidgall/AgentLaboratory) / [Demo](https://agentlaboratory.github.io) |
 | AI-Scientist-v2 | 基于Agentic Tree Search的升级版，不依赖人类模板，可跨ML领域通用化探索 | agent | <!--stars:SakanaAI/AI-Scientist-v2-->⭐ 7k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2504.08066/) | [GitHub](https://github.com/SakanaAI/AI-Scientist-v2) |
 | AI-Researcher | 完全自主的科学创新系统，覆盖文献综述到论文撰写的完整研究管线 | agent | <!--stars:hkuds/ai-researcher-->⭐ 5.7k<!--/stars--> | [NeurIPS 2025](https://modelscope.cn/papers/2505.18705/) | [GitHub](https://github.com/hkuds/ai-researcher) / [Demo](https://novix.science/chat) |
@@ -40,7 +40,7 @@
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
 | STORM | 斯坦福开源的知识整理系统，通过多视角问题生成和检索研究生成带引用的完整报告 | agent | <!--stars:stanford-oval/storm-->⭐ 31.1k<!--/stars--> | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) | [GitHub](https://github.com/stanford-oval/storm) / [Demo](https://storm.genie.stanford.edu) |
-| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 43.2k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
+| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 43.3k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
 
 
 ---
@@ -51,7 +51,7 @@
 
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
-| PaperBanana | 多Agent学术插图自动化生成框架，从文本描述生成出版级图表和统计图 | agent | <!--stars:dwzhu-pku/PaperBanana-->⭐ 6.9k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2601.23265/) | [GitHub](https://github.com/dwzhu-pku/PaperBanana) / [Demo](https://dwzhu-pku.github.io/PaperBanana/) |
+| PaperBanana | 多Agent学术插图自动化生成框架，从文本描述生成出版级图表和统计图 | agent | <!--stars:dwzhu-pku/PaperBanana-->⭐ 7k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2601.23265/) | [GitHub](https://github.com/dwzhu-pku/PaperBanana) / [Demo](https://dwzhu-pku.github.io/PaperBanana/) |
 
 ---
 
@@ -61,7 +61,7 @@
 
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
-| CitationClaw | 让每一次引用都成为可解释的影响力，输入论文标题或Google Scholar主页即可生成可分享的引用画像报告 | tool | <!--stars:VisionXLab/CitationClaw-->⭐ 310<!--/stars--> | - | [GitHub](https://github.com/VisionXLab/CitationClaw) / [魔搭创空间](https://modelscope.cn/studios/fork?target=VisionXLab/CitationClaw)|
+| CitationClaw | 让每一次引用都成为可解释的影响力，输入论文标题或Google Scholar主页即可生成可分享的引用画像报告 | tool | <!--stars:VisionXLab/CitationClaw-->⭐ 311<!--/stars--> | - | [GitHub](https://github.com/VisionXLab/CitationClaw) / [魔搭创空间](https://modelscope.cn/studios/fork?target=VisionXLab/CitationClaw)|
 
 ---
 
