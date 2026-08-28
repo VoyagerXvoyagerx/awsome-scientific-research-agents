@@ -40,7 +40,7 @@
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
 | STORM | 斯坦福开源的知识整理系统，通过多视角问题生成和检索研究生成带引用的完整报告 | agent | <!--stars:stanford-oval/storm-->⭐ 31.1k<!--/stars--> | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) | [GitHub](https://github.com/stanford-oval/storm) / [Demo](https://storm.genie.stanford.edu) |
-| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 43.9k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
+| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 44.1k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
 
 
 ---
@@ -61,7 +61,7 @@
 
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
-| CitationClaw | 让每一次引用都成为可解释的影响力，输入论文标题或Google Scholar主页即可生成可分享的引用画像报告 | tool | <!--stars:VisionXLab/CitationClaw-->⭐ 313<!--/stars--> | - | [GitHub](https://github.com/VisionXLab/CitationClaw) / [魔搭创空间](https://modelscope.cn/studios/fork?target=VisionXLab/CitationClaw)|
+| CitationClaw | 让每一次引用都成为可解释的影响力，输入论文标题或Google Scholar主页即可生成可分享的引用画像报告 | tool | <!--stars:VisionXLab/CitationClaw-->⭐ 314<!--/stars--> | - | [GitHub](https://github.com/VisionXLab/CitationClaw) / [魔搭创空间](https://modelscope.cn/studios/fork?target=VisionXLab/CitationClaw)|
 
 ---
 
