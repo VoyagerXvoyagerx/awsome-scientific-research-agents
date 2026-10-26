@@ -9,6 +9,7 @@
 
 - [🤖 Auto Research（端到端自动科研）](#-auto-research端到端自动科研)
 - [✍️ Writing（论文写作与润色）](#️-writing论文写作与润色)
+- [🧮 Computational Experiments（计算实验）](#-computational-experiments计算实验)
 - [📊 Scientific Visualization（科学画图与可视化）](#-scientific-visualization科学画图与可视化)
 - [📈 Impact Analysis（论文影响力分析）](#-impact-analysis论文影响力分析)
 - [🤝 如何贡献](#-如何贡献)
@@ -42,6 +43,16 @@
 | STORM | 斯坦福开源的知识整理系统，通过多视角问题生成和检索研究生成带引用的完整报告 | agent | <!--stars:stanford-oval/storm-->⭐ 31.7k<!--/stars--> | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) | [GitHub](https://github.com/stanford-oval/storm) / [Demo](https://storm.genie.stanford.edu) |
 | ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 53.9k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
 
+
+---
+
+## 🧮 Computational Experiments（计算实验）
+
+> 供 AI 助手调用的计算工具：实际建立模型、执行计算并检查结果，不代替研究者判断。
+
+| 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
+|------|------|------|:------------:|-------|------|
+| AgentFEM | 面向 AI 助手的开源有限元平台，可建立结构与传热模型、执行求解并核查结果，保留可编辑的模型与计算记录 | tool | <!--stars:haoming-luo/agentfem-->⭐ updating<!--/stars--> | - | [GitHub](https://github.com/haoming-luo/agentfem) / [教学案例](https://lab.haoming-luo.com/learn/) |
 
 ---
 
