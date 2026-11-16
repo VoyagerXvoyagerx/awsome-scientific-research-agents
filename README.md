@@ -40,7 +40,7 @@
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
 | STORM | 斯坦福开源的知识整理系统，通过多视角问题生成和检索研究生成带引用的完整报告 | agent | <!--stars:stanford-oval/storm-->⭐ 31.9k<!--/stars--> | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) | [GitHub](https://github.com/stanford-oval/storm) / [Demo](https://storm.genie.stanford.edu) |
-| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 57k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
+| ARS | Claude Code学术研究技能套件，覆盖从文献调研到论文发表的全流程 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 57.1k<!--/stars--> | - | [GitHub](https://github.com/Imbad0202/academic-research-skills) / 内置Claude Code技能 |
 
 
 ---
@@ -51,7 +51,7 @@
 
 | 缩写 | 描述 | 类型 | Stars | Paper | 链接 |
 |------|------|------|:------------:|-------|------|
-| PaperBanana | 多Agent学术插图自动化生成框架，从文本描述生成出版级图表和统计图 | agent | <!--stars:dwzhu-pku/PaperBanana-->⭐ 7.6k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2601.23265/) | [GitHub](https://github.com/dwzhu-pku/PaperBanana) / [Demo](https://dwzhu-pku.github.io/PaperBanana/) |
+| PaperBanana | 多Agent学术插图自动化生成框架，从文本描述生成出版级图表和统计图 | agent | <!--stars:dwzhu-pku/PaperBanana-->⭐ 7.7k<!--/stars--> | [arXiv 2025](https://modelscope.cn/papers/2601.23265/) | [GitHub](https://github.com/dwzhu-pku/PaperBanana) / [Demo](https://dwzhu-pku.github.io/PaperBanana/) |
 
 ---
 
